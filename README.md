@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-<h1 align="center">  Hey there! I'm Leonardo <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center">Hey there! I'm Leonardo👋</h1>
 <p align="left"> 
   Java Springboot developer based temporally in Brazil. Co-founder of 7-ideias software house and passioante for food and string instruments.
 </p>

@@ -24,7 +24,7 @@ alt="fluttrr"/>
     <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
   </a>
 
-<h3 align="center">Database</h3>
+<h3 align="left">Database</h3>
 <p align="left">
 
   <a href="https://www.postgresql.org" target="_blank"> 

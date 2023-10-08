@@ -4,28 +4,24 @@
   Java developer based temporally in Brazil. Co-founder of 7-ideias software house and passioante about food and string instruments.
 </p>
 
-<h3 align="center">Stack technology</h3>
+<h3 align="left">Languages</h3>
 
+<p align="left">
 <a href="https://www.java.com" target="_blank">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
 alt="java"/>
 </a>
-<a href="https://www.fluttter.dev" target="_blank">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-alt="fluttrr"/>
+<a href="https://kotlinlang.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="hibernate " /> 
+  </a>
+<a href="https://www.dart.dev" target="_blank">
+<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
+alt="dart"/>
 </a>
-<a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-  </a>
-<a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
- <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
+</p>
 
 <h3 align="left">Database</h3>
-<p align="left">
+<p align="left ">
 
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
@@ -85,6 +81,16 @@ alt="fluttrr"/>
 
 <h3 align="left">Other technologies</h3>
 <p align="= left">
+  <a href="https://spring.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
+  </a>
+  <a href="https://graphql.org" target="_blank">
+    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
+  </a>  
+<a href="https://www.fluttter.dev" target="_blank">
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+alt="flutter"/>
+</a>
   <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   </a> 

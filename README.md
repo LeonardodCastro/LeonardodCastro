@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <h1 align="center">Hey there! I'm Leonardo👋</h1>
 <p align="left"> 
-  Java developer based temporally in Brazil. Co-founder of 7-ideias software house. Back-end and Mobile🧑🏻‍💻
+  Java backend developer. Lover of software architecture. Mobile sometimes, backend always🧑🏻‍💻
 </p>
 
 <h3 align="left">Languages</h3>

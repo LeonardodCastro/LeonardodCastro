@@ -38,24 +38,26 @@ alt="dart"/>
   </a>
 </p>
 
-<h3 align="left">Version Control & CI/CD</h3>
+<h3 align="left">Cloud & CI/CD</h3>
 <p align="left">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+  
+  <a href="https://dev.azure.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
   </a>
 
- <a href="https://www.heroku.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
+ <a href="https://gitlab.com" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="heroku"/>
   </a>
 <a href="https://www.railway.com/" target="_blank">
     <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"
       alt="railway"/>
   </a>
+  
 </p>
 
 

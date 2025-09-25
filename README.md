@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <h1 align="center">Hey there! I'm Leonardo👋</h1>
 <p align="left"> 
-  Java backend developer. Lover of software architecture. Kotlin and GO sometimes, backend always🧑🏻‍💻
+  Java backend developer. Lover of software architecture. Kotlin and Go sometimes, backend always🧑🏻‍💻
 </p>
 
 <h3 align="left">Languages</h3>
@@ -22,7 +22,17 @@ alt="go"/>
 
 <h3 align="left">Database</h3>
 <p align="left ">
+  
+  <a href="https://www.microsoft.com/sql-server" target="_blank"> 
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"
+      alt="Microsoft SQL Server"/> 
+  </a>
 
+  <a href="https://aws.amazon.com/dynamodb/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"
+      alt="DynamoDB"/> 
+  </a>
+  
   <a href="https://www.postgresql.org" target="_blank"> 
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
@@ -32,6 +42,12 @@ alt="go"/>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/> 
   </a>
+
+  <a href="https://redis.io" target="_blank"> 
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"
+      alt="Redis"/> 
+  </a>
+  
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 

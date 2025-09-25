@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <h1 align="center">Hey there! I'm Leonardo👋</h1>
 <p align="left"> 
-  Java backend developer. Lover of software architecture. Mobile sometimes, backend always🧑🏻‍💻
+  Java backend developer. Lover of software architecture. Kotlin and GO sometimes, backend always🧑🏻‍💻
 </p>
 
 <h3 align="left">Languages</h3>
@@ -14,9 +14,9 @@ alt="java"/>
 <a href="https://kotlinlang.org" target="_blank"> 
     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="hibernate " /> 
   </a>
-<a href="https://www.dart.dev" target="_blank">
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
-alt="dart"/>
+<a href="https://go.dev" target="_blank">
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"
+alt="go"/>
 </a>
 </p>
 

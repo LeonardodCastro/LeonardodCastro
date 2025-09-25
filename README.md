@@ -69,10 +69,17 @@ alt="go"/>
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="heroku"/>
   </a>
-<a href="https://www.railway.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white"
-      alt="railway"/>
+  
+<a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"
+      alt="GitHub Actions"/>
   </a>
+
+<a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white"
+      alt="Jenkis"/>
+  </a>
+
   
 </p>
 

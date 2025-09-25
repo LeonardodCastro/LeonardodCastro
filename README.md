@@ -84,24 +84,24 @@ alt="go"/>
 </p>
 
 
-<h3 align="left">Preferred IDEs  & Tools :</h3>
+<h3 align="left">Containers & Orchestration</h3>
 <p align="left">
 
-  <a href="https://intellij-support.jetbrains.com/hc/en-us" target="_blank">
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  </a>
-<a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-  </a>
-  <a href="https://www.postman.com"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a> 
-<a href="https://www.studio3t.com"> 
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Studio+3T&color=17AF66&logo=Studio+3T&logoColor=FFFFFF&label="/>
-  </a>
-<a href="https://www.dbeaver.io"> 
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=DBeaver&color=%23352924&logo=d&logoColor=FFFFFF&label="/>
-  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="docker"/>
+   </a>
+
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white"
+      alt="Kubernetes"/>
+   </a>
+
+   <a href="https://www.rancher.com" target="_blank">
+    <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white"
+      alt="Rancher"/>
+   </a>
+    
 </p>
 
 <h3 align="left">Other technologies</h3>
@@ -114,12 +114,8 @@ alt="go"/>
 alt="flutter"/>
 </a>
   </a> 
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-   <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>  
+    
+
   <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
   

@@ -104,26 +104,24 @@ alt="go"/>
     
 </p>
 
-<h3 align="left">Other technologies</h3>
+<h3 align="left">Frameworks and Other technologies</h3>
+
 <p align="= left">
   <a href="https://spring.io/" target="_blank"> 
     <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
   </a>
+  
 <a href="https://www.fluttter.dev" target="_blank">
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
 alt="flutter"/>
 </a>
-  </a> 
-    
 
+</a> 
   <a href="https://junit.org/junit5/" target="_blank"> 
     <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-  
   </a>
-<a href="https://www.twilio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white"
-      alt="twilio"/>
-  </a><a href="https://maven.apache.org" target="_blank">
+  
+  <a href="https://maven.apache.org" target="_blank">
     <img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"
       alt="maven"/>
   </a>
@@ -131,6 +129,22 @@ alt="flutter"/>
     <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"
       alt="gradle"/>
   </a>
+
+<a href="https://grafana.com" target="_blank">
+    <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"
+      alt="Grafana"/>
+  </a>
+
+  <a href="https://prometheus.io" target="_blank">
+    <img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000"
+      alt="Prometheus"/>
+  </a>
+
+<a href="https://opentelemetry.io" target="_blank">
+    <img src="https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black"
+      alt="OpenTelemetry"/>
+  </a>
+  
 <a href="https://swagger.io">
     <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"
       alt="Swagger"/>
@@ -138,7 +152,7 @@ alt="flutter"/>
 </p>
 
 <p align="left">
-  👇 Contact me :)
+  👇 Contact me or check my @Medium :)
 </p>
 
 <p align="left">
@@ -147,4 +161,7 @@ alt="flutter"/>
 
   <a href="https://www.linkedin.com/in/leonardo-de-castro-dev/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://medium.com/@dev.leonardocastro">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></>
 </p>

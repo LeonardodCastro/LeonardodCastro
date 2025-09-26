@@ -20,7 +20,7 @@ alt="go"/>
 </a>
 </p>
 
-<h3 align="left">Database</h3>
+<h3 align="left">Databases</h3>
 <p align="left ">
   
   <a href="https://www.microsoft.com/sql-server" target="_blank"> 

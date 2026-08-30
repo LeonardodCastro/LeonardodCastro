@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <h1 align="center">Hey there! I'm Leonardo👋</h1>
 <p align="left"> 
-  Java backend developer. Lover of software architecture. Kotlin and Go sometimes, backend always🧑🏻‍💻
+  Java Backend Developer | Software Architecture enthusiast | Kotlin & Go sometimes, backend always. 🧑🏻‍💻
 </p>
 
 <h3 align="left">Languages</h3>
